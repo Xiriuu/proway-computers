@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.container i {
+  font-size: 200px;
+  color: var(--orange);
+}
+
+.container h2 {
+  font-weight: 900;
+  font-size: 50px;
+  color: var(--dark-blue);
+
+}
